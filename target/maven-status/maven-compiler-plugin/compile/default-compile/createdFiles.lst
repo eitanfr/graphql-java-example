@@ -1,0 +1,5 @@
+graphql/LinkRepository.class
+graphql/Link.class
+graphql/Mutation.class
+graphql/Query.class
+graphql/GraphQLEndpoint.class
